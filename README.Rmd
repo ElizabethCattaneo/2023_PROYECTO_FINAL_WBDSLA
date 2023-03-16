@@ -5,19 +5,19 @@ date: "3/15/2023"
 output: html_document
 ---
 
-## **Objetivo:**
+Objetivo:
 
-### El **objetivo general** del siguiente proyecto es identificar secuencias codificantes de proteínas asociadas a la producción de alfa-hemolisina en *Staphylococcus aureus*.
+El objetivo general del siguiente proyecto es identificar secuencias codificantes de proteínas asociadas a la producción de alfa-hemolisina en Staphylococcus aureus.
 
-## **Los pasos y herramientas utilizadas son los siguientes:**
-### - Búsqueda de genomas procariotas en bases de datos (NCBI - Genome)
-### - Obtención semi automatizada de dichos genomas
-### - Construcción de bases de datos de proteínas (Uniprot y blastp)
-### - Determinación de secuencias codificantes (pyrodigal)
-### - Análisis funcional de secuencias de proteínas (InterProScan)
-### - Visualización de datos (pyCirclize y seaborn)
+Los pasos y herramientas utilizadas son los siguientes:
+- Búsqueda de genomas procariotas en bases de datos (NCBI - Genome)
+- Obtención semi automatizada de dichos genomas
+- Construcción de bases de datos de proteínas (Uniprot y blastp)
+- Determinación de secuencias codificantes (pyrodigal)
+- Análisis funcional de secuencias de proteínas (InterProScan)
+- Visualización de datos (pyCirclize y seaborn)
 
 
-### * El proyecto está desarrollado en Google Colab.
+* El proyecto está desarrollado en Google Colab.
 
-### * Las bibliotecas necesarias para ejecutar el código estan detalladas en el Notebook.
+* Las bibliotecas necesarias para ejecutar el código estan detalladas en el Notebook.
